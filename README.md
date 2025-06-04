@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zdc233
-- 👀 I’m interested in python,c,c++,java
+- 👀 I’m interested in python,c,c++
 - 📫 QQ：1515396565
 
 <!---
